@@ -1,0 +1,6 @@
+class Solution(object):
+    def reverseDegree(self, s):
+        ans=0
+        for i,ch in enumerate(s,start=1):
+            ans+=(26-(ord(ch)-ord("a")))*i
+        return ans
