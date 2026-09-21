@@ -1,7 +1,10 @@
 class Solution(object):
     def strStr(self, haystack, needle):
-        r=-1
-        if needle in haystack:
-            r=haystack.index(needle[0])
-        return r
+        if len(haystack)<len(needle):
+            return -1
+        for i in range(len(haystack)):
+            if haystack[i:i+len(needle)]==needle:
+                return i
+        return -1
+
         
