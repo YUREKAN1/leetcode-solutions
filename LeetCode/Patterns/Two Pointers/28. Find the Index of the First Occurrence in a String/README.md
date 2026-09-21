@@ -1,6 +1,6 @@
 # 📝 28. Find the Index of the First Occurrence in a String (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/6750826/video-slicing-approach-by-niits-7s6u/?envType=problem-list-v2&envId=two-pointers)
+🔗 [Problem Link](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/?envType=problem-list-v2&envId=two-pointers)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Plaintext-blue)
 
