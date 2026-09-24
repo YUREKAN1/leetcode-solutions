@@ -1,6 +1,6 @@
 # 📝 70. Climbing Stairs (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/climbing-stairs/solutions/3708750/4-methods-beats-100-c-java-python-beginn-bvot/)
+🔗 [Problem Link](https://leetcode.com/problems/climbing-stairs/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
