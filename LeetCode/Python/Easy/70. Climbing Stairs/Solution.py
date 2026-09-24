@@ -10,3 +10,5 @@ class Solution(object):
         for i in range(2,n+1):
             temp=c
             c=p+c
+            p=temp
+        return c
