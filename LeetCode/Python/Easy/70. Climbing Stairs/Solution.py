@@ -9,4 +9,4 @@ class Solution(object):
         p,c=1,1
         for i in range(2,n+1):
             temp=c
-            c=
+            c=p
