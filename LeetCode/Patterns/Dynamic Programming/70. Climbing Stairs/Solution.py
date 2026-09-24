@@ -8,5 +8,5 @@ class Solution(object):
             return 1
         p,c=1,1
         for i in range(2,n+1):
-            temp=
+            temp=c
             c=
