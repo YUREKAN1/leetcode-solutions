@@ -1,6 +1,6 @@
 # 📝 217. Contains Duplicate (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/contains-duplicate/)
+🔗 [Problem Link](https://leetcode.com/problems/contains-duplicate/solutions/8511846/video-3-solutions-with-sorting-set-and-l-43vm/?envType=problem-list-v2&envId=array)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
