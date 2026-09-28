@@ -1,6 +1,6 @@
 # 📝 217. Contains Duplicate (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/contains-duplicate/)
+🔗 [Problem Link](https://leetcode.com/problems/contains-duplicate/solutions/3672475/4-methods-c-java-python-beginner-friendl-zozw/?envType=problem-list-v2&envId=array)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
