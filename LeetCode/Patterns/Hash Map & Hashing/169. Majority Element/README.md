@@ -1,6 +1,6 @@
 # 📝 169. Majority Element (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/majority-element/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/majority-element/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table, Divide and Conquer, Sorting, Counting, Boyer–Moore Majority Vote Algorithm
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
-- **Memory:** N/A
+- **Runtime:** 3 ms
+- **Memory:** 13.5 MB
 
 ---
 
