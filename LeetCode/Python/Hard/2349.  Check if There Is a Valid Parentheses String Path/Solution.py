@@ -9,13 +9,15 @@ class Solution(object):
         if(l%2==1 or grid[0][0]!="(" or grid[m-1][n-1]!=")"):
             return False
         
-        def dfs(row,col,b):
-            b+=1 if grid[row][col]=="(" else -1
-            r=(m-1-row)+(n-1-col)
-
-            if b<0 or b>r:
-                return False
-            if row==m-1 and col==n-1:
-                return b==0
-            return ((row+1<m and dfs(row+1,col,b)) or (col+1<n and dfs(row,col+1,b)))
-        return dfs(0,0,0)        
+        dp=[0]*n
+        for row in range(m):
+            for col in range(n):
+                r=0
+                if row>0:
+                    r|=dp[col]
+                if col>0:
+                    r|=dp[col-1]
+                if row==0 and col==0:
+                    r=1
+                dp[col]=(r<<1 if grid[row][col]=="(" else r>>1) 
+        return (dp[n-1] & 1)!=0     
