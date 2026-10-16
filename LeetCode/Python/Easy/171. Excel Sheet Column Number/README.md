@@ -1,6 +1,6 @@
 # 📝 171. Excel Sheet Column Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/excel-sheet-column-number/?envType=problem-list-v2&envId=string)
+🔗 [Problem Link](https://leetcode.com/problems/excel-sheet-column-number/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
