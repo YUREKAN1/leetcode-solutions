@@ -1,6 +1,6 @@
 # 📝 2916. Subarrays Distinct Element Sum of Squares II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/solutions/?envType=daily-question&envId=2026-10-16)
+🔗 [Problem Link](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/solutions/8574583/594ms-beats-1039-easy-approach-and-step-8l0y3/?envType=daily-question&envId=2026-10-16)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
