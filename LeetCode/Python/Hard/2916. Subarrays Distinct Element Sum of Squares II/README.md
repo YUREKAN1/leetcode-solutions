@@ -1,6 +1,6 @@
 # 📝 2916. Subarrays Distinct Element Sum of Squares II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii)
+🔗 [Problem Link](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/solutions/8574693/snowball-subarrays-ii-fenwick-tree-onlog-fh7f/?envType=daily-question&envId=2026-10-16)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,7 +8,7 @@
 Array, Hash Table, Binary Indexed Tree, Segment Tree
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
