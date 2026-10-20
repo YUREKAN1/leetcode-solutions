@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 7 / 75 (9.3%)
+- **Completed:** 8 / 75 (10.7%)
 
 ---
 
@@ -11,7 +11,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 
 ### 📂 Array
 - [ ] Two Sum
-- [ ] Best Time to Buy and Sell Stock
+- [x] [Best Time to Buy and Sell Stock](./Python/Easy/121. Best Time to Buy and Sell Stock/)
 - [x] [Contains Duplicate](./Python/Easy/217. Contains Duplicate/)
 - [ ] Product of Array Except Self
 - [ ] Maximum Subarray
