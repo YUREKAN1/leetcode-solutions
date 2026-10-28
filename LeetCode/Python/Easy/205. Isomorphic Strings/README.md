@@ -8,8 +8,8 @@
 Hash Table, String
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
-- **Memory:** N/A
+- **Runtime:** 3 ms
+- **Memory:** 19.2 MB
 
 ---
 
