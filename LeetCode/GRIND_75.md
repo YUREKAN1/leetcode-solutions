@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 11 / 75 (14.7%)
+- **Completed:** 12 / 75 (16.0%)
 
 ---
 
@@ -26,7 +26,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 - [x] [Number of 1 Bits](./Python/Easy/191. Number of 1 Bits/)
 - [ ] Counting Bits
 - [x] [Missing Number](./Python/Easy/268. Missing Number/)
-- [ ] Reverse Bits
+- [x] [Reverse Bits](./Python/Easy/190. Reverse Bits/)
 
 ### 📂 Dynamic Programming
 - [x] [Climbing Stairs](./Python/Easy/70. Climbing Stairs/)
