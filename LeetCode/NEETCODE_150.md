@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 15 / 150 (10.0%)
+- **Completed:** 16 / 150 (10.7%)
 
 ---
 
@@ -171,7 +171,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 ### 📂 Bit Manipulation
 - [x] [Single Number](./Python/Easy/136. Single Number/)
 - [x] [Number of 1 Bits](./Python/Easy/191. Number of 1 Bits/)
-- [ ] Counting Bits
+- [x] [Counting Bits](./Python/Easy/338. Counting Bits/)
 - [x] [Reverse Bits](./Python/Easy/190. Reverse Bits/)
 - [x] [Missing Number](./Python/Easy/268. Missing Number/)
 - [ ] Sum of Two Integers
