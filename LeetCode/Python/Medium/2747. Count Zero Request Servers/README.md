@@ -8,7 +8,7 @@
 Array, Hash Table, Sliding Window, Sorting
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
