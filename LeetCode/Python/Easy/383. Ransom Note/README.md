@@ -19,7 +19,7 @@ Given two strings  `ransomNote`  and  `magazine` , return  `true`  *if*  `ransom
 
 Each letter in  `magazine`  can only be used once in  `ransomNote` .
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: ransomNote = "a", magazine = "b"
