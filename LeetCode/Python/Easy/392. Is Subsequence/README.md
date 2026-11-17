@@ -1,6 +1,6 @@
 # 📝 392. Is Subsequence (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/is-subsequence)
+🔗 [Problem Link](https://leetcode.com/problems/is-subsequence/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Two Pointers, String, Dynamic Programming
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 19.2 MB
 
 ---
 
@@ -19,7 +19,7 @@ Given two strings  `s`  and  `t` , return  `true`  *if*  `s`  *is a  **subsequen
 
 A  **subsequence**  of a string is a new string that is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e.,  `"ace"`  is a subsequence of  `"abcde"`  while  `"aec"`  is not).
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: s = "abc", t = "ahbgdc"
