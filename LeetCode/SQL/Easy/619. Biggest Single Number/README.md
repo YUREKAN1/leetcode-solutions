@@ -1,6 +1,6 @@
 # 📝 619. Biggest Single Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/biggest-single-number)
+🔗 [Problem Link](https://leetcode.com/problems/biggest-single-number/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-SQL-blue)
 
