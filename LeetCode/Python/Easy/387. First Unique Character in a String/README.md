@@ -1,6 +1,6 @@
 # 📝 387. First Unique Character in a String (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/first-unique-character-in-a-string)
+🔗 [Problem Link](https://leetcode.com/problems/first-unique-character-in-a-string/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -17,7 +17,7 @@ Hash Table, String, Queue, Counting
 
 Given a string  `s` , find the  **first**  non-repeating character in it and return its index. If it  **does not**  exist, return  `-1` .
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 **Input:**  s = "leetcode"
 
