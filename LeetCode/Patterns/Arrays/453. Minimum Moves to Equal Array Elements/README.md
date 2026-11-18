@@ -1,6 +1,6 @@
 # 📝 453. Minimum Moves to Equal Array Elements (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/?envType=daily-question&envId=2026-11-01)
+🔗 [Problem Link](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Math
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 20.3 MB
 
 ---
 
@@ -21,7 +21,7 @@ Return the  **minimum**  number of moves required to make all array elements  **
 
 In one move, you must increment  `n - 1`  elements of the array by 1.
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,2,3]
