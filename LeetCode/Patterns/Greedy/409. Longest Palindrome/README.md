@@ -8,8 +8,8 @@
 Hash Table, String, Greedy
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 19.4 MB
 
 ---
 
@@ -19,7 +19,7 @@ Given a string  `s`  which consists of lowercase or uppercase letters, return th
 
 Letters are  **case sensitive** , for example,  `"Aa"`  is not considered a palindrome.
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: s = "abccccdd"
