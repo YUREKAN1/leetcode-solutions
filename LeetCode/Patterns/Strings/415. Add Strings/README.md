@@ -8,8 +8,8 @@
 Math, String, Simulation
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 6 ms
+- **Memory:** 19.3 MB
 
 ---
 
@@ -19,7 +19,7 @@ Given two non-negative integers,  `num1`  and  `num2`  represented as string, re
 
 You must solve the problem without using any built-in library for handling large integers (such as  `BigInteger` ). You must also not convert the inputs to integers directly.
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: num1 = "11", num2 = "123"
