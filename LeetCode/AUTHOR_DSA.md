@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 29 / 238 (12.2%)
+- **Completed:** 30 / 238 (12.6%)
 
 ---
 
@@ -204,7 +204,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Consistent Strings
 - [ ] Base 7
 - [ ] Convert to Hexadecimal
-- [ ] Add Strings
+- [x] [Add Strings](./Python/Easy/415. Add Strings/)
 - [ ] Binary Addition
 - [x] [Excel Sheet Column Number](./Python/Easy/171. Excel Sheet Column Number/)
 - [x] [Excel Sheet Column Title](./Python/Easy/168. Excel Sheet Column Title/)
