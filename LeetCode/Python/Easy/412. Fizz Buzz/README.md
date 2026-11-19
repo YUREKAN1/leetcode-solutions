@@ -8,7 +8,7 @@
 Math, String, Simulation
 
 ### 🚀 Performance
-- **Runtime:** Successfully Evaluated
+- **Runtime:** N/A
 - **Memory:** N/A
 
 ---
@@ -26,7 +26,7 @@ Given an integer  `n` , return  *a string array*  `answer`  *( **1-indexed** ) w
 	
 - `answer[i] == i`  (as a string) if none of the above conditions are true.
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: n = 3
