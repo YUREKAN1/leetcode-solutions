@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 27 / 238 (11.3%)
+- **Completed:** 28 / 238 (11.8%)
 
 ---
 
@@ -233,7 +233,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [x] [Valid Anagram](./Python/Easy/242. Valid Anagram/)
 - [ ] Group Anagrams
 - [ ] First Unique Character
-- [ ] Longest Palindrome
+- [x] [Longest Palindrome](./Python/Easy/409. Longest Palindrome/)
 - [ ] Sort Characters by Frequency
 - [x] [Isomorphic Strings](./Python/Easy/205. Isomorphic Strings/)
 - [ ] Reconstruct Original Digits from English
