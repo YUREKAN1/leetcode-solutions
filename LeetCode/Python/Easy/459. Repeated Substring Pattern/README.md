@@ -8,8 +8,8 @@
 String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 1 ms
+- **Memory:** 19.1 MB
 
 ---
 
@@ -17,7 +17,7 @@ String, String Matching, Z Algorithm, Knuth–Morris–Pratt Algorithm
 
 Given a string  `s` , check if it can be constructed by taking a substring of it and appending multiple copies of the substring together.
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: s = "abab"
