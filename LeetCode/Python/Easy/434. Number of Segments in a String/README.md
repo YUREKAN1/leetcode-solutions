@@ -1,6 +1,6 @@
 # 📝 434. Number of Segments in a String (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/number-of-segments-in-a-string)
+🔗 [Problem Link](https://leetcode.com/problems/number-of-segments-in-a-string/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 48 ms
+- **Memory:** 19.3 MB
 
 ---
 
@@ -19,7 +19,7 @@ Given a string  `s` , return  *the number of segments in the string* .
 
 A  **segment**  is defined to be a contiguous sequence of  **non-space characters** .
 
-OriginalPython3 **Example 1:**
+**Example 1:**
 
 ```
 Input: s = "Hello, my name is John"
