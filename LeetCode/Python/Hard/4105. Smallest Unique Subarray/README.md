@@ -8,8 +8,8 @@
 Array, Hash Table, Binary Search, Rolling Hash, Suffix Array, Hash Function
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2132 ms
+- **Memory:** 103.2 MB
 
 ---
 
